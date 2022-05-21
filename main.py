@@ -2,7 +2,7 @@ import mysql.connector
 vishwa = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="golu",
+  password="PASSWORD",
   database="sample"
 )
 print(" welcome to sql \n choose from the given options:")
